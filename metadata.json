@@ -1,0 +1,6 @@
+{
+  "name": "Movanta",
+  "description": "Securely extract, convert, and download media from YouTube, Facebook, Instagram, X (Twitter), and TikTok with high-speed performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
